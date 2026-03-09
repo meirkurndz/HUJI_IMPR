@@ -1,0 +1,12 @@
+[submodule "impr_ex1"]
+	path = impr_ex1
+	url = https://github.com/meirkurndz/IMPR_EX1_cut_frames.git
+[submodule "impr_ex2"]
+	path = impr_ex2
+	url = https://github.com/meirkurndz/IMPR_ex2_watermarks.git
+[submodule "impr_ex3"]
+	path = impr_ex3
+	url = https://github.com/meirkurndz/IMPR_ex3_pyramids.git
+[submodule "impr_ex4"]
+	path = impr_ex4
+	url = https://github.com/meirkurndz/IMPR_ex4_panorama.git
